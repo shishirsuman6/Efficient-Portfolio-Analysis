@@ -1,5 +1,7 @@
 # Optimal Portfolio with Efficient Frontier
 
+## A project for UPenn Fintech Bootcamp
+
 This project has three distinct parts.  
 
 Part 1 utilizes the Alpaca API to retrieve data for stocks, bonds, oil, gold, ETF's and cryptocurrencies.  It returns the closing day prices for all of the predetermined assets.  Once the data is retrieved it is fed into Panda's dataframes and various assets classes are combined into their own dataframe to represent a portfolio of those given assets. This represents the input for the second part of the project.  
