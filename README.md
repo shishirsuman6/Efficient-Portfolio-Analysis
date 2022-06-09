@@ -10,6 +10,14 @@ Part 2 utilizes the input from part 1 to perform an Optimal Portfolio analysis u
 
 Part 3 uses the output from part 2 to create an interactive dashboard.  In addition, to the interactive dashboard that visualizes the simulations from the Efficient Frontier analysis, it performs a Monte Carlo simulation on each of our portfolios based on the respective weights from part 2.  The dashboard also displays cumulative return analysis of a handpicked portfolio against the weighted portfolios from the Efficient Frontier analysis. 
 
+![image](https://user-images.githubusercontent.com/51159089/172901953-d7417f0a-3d32-4ea2-99b1-dccdbe4fd02f.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172902600-1d82f73f-999a-4026-865e-56c3c093c2e0.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172902712-457e6526-3c5a-4013-a896-4e441b6861de.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172902800-4af96d09-fdbd-45be-a862-3c60b25059aa.png)
+
 
 ## Technologies
 This project used Python 3.7 and iPython in Jupyter Lab.  It utilizes API's to fetch financial data.  
